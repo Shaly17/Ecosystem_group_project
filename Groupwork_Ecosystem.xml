@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ecosystem_Coursework>
+    <!-- Comment: Description of the group project for Ecosystem's coursework -->
+    <GroupProject>
+        <Title>Ecosystem Course Website</Title>
+        <Description>
+            This project involves the creation of a website for the Ecosystem coursework.
+            The website features user authentication, requiring an email and password.
+        </Description>
+        <Collaborators>
+            <Collaborator>
+                <Name>Yimei</Name>
+                <Role>Javascript Developer</Role>
+                <Contribution>Yimei focused on developing the Javascript functionality for the website.</Contribution>
+            </Collaborator>
+            <Collaborator>
+                <Name>Shalika</Name>
+                <Role>HTML and CSS Developer</Role>
+                <Contribution>Shalika primarily worked on the HTML and CSS to design the website.</Contribution>
+            </Collaborator>
+        </Collaborators>
+        <Languages>
+            <Language>
+                <Name>HTML</Name>
+                <Contributor>Shalika and Yimei</Contributor>
+                <Usage> Basic structure of the website</Usage>
+            </Language>
+            <Language>
+                <Name>CSS</Name>
+                <Contributor>Shalika</Contributor>
+                <Usage>Used for styling</Usage>
+            </Language>
+            <Language>
+                <Name>Javascript</Name>
+                <Contributor>Yimei</Contributor>
+                <Usage>Used for interaction</Usage>
+            </Language>
+            <Language>
+                <Name>Git</Name>
+                <Contributor>Yimei, Shalika</Contributor>
+                <Usage>Both collaborators used Git to pull, clone, add, and push their work to GitHub.</Usage>
+            </Language>
+        </Languages>
+    </GroupProject>
+</Ecosystem_Coursework>
